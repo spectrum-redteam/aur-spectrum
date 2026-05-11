@@ -1,5 +1,5 @@
 pkgname=spectrum
-pkgver=1.35.1
+pkgver=1.35.4
 pkgrel=1
 pkgdesc="Autonomous Cyber Reasoning System - Red Team & Blue Team AI agents"
 arch=('any')
